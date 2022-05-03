@@ -1,6 +1,7 @@
 # HUDK4050profolio
 # Siyu-Lin
 Individual Coding Exercises
+
 [ICE0](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/ICE0.ipynb) 
 [ICE1](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/ICE1.ipynb)
 [ICE2](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/ICE2.ipynb)
@@ -12,6 +13,7 @@ Individual Coding Exercises
 [ICE8](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/ICE8.ipynb)
 
 Analysis Challenge Assignments
+
 [ACA1]() 
 [ACA2]()
 [ACA3](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/ACA3.ipynb)
