@@ -14,8 +14,8 @@ Individual Coding Exercises
 
 Analysis Challenge Assignments
 
-[ACA1]
-[ACA2]
+[ACA1](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/Analysis%20Challenge%20Assignment%201.ipynb.json)
+[ACA2](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/Classifier%20and%20Behavior%20Prediction-ACA2(1).json)
 [ACA3](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/ACA3.ipynb)
 [ACA4](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/ACA4%20-%20Jingyuan%2C%20Siyu%2C%20Zhen.ipynb)
 
@@ -37,7 +37,7 @@ Individual Coding Exercises
 mini Analysis Challenge Assignments
 
 [mini1](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/LA%20mini%20project%201%20Natural%20Language%20Processing%20for%20Twitter%20Conference%20Backchannel.ipynb)
-[mini2]
+[mini2](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/-miniLA%202%20Recommender%20System%20for%20An%20Online%20Learning%20Application.ipynb)
 [mini3](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/Mini%20LA%20assignment3%20-%20Jingyuan%2C%20Siyu%2C%20Zhen.ipynb)
 
 Creative EDM assignment (improvement plan)
