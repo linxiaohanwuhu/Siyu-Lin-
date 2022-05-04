@@ -22,3 +22,22 @@ Analysis Challenge Assignments
 Creative EDM assignment
 
 Reflection essay 
+
+# HUDK4051profolio
+
+Individual Coding Exercises
+
+[2ICE1](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/2ICE1_SQL%20(1).ipynb)
+[2ICE2](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/2ICE2%20(2).ipynb)
+[2ICE3](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/2ICE3%20(1).ipynb)
+[2ICE4](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/2ICE4.ipynb)
+[2ICE5](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/2ICE5.ipynb)
+[2ICE_intro_ANN](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/2ICE-Intro_to_ANN.ipynb)
+
+mini Analysis Challenge Assignments
+
+[mini1](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/LA%20mini%20project%201%20Natural%20Language%20Processing%20for%20Twitter%20Conference%20Backchannel.ipynb)
+[mini2]
+[mini3](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/Mini%20LA%20assignment3%20-%20Jingyuan%2C%20Siyu%2C%20Zhen.ipynb)
+
+Creative EDM assignment (improvement plan)
