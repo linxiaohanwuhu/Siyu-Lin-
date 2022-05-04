@@ -14,8 +14,8 @@ Individual Coding Exercises
 
 Analysis Challenge Assignments
 
-[ACA1](https://github.com/jl5702/HUDK4051/blob/main/Mini%20LA%20assignment1%20-%20Siyu,%20Jingyuan,%20Zhen.ipynb)
-[ACA2](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/Classifier%20and%20Behavior%20Prediction-ACA2(1).json)
+[ACA1](https://github.com/jl5702/HUDK4050/blob/main/ACA1.ipynb)
+[ACA2](https://github.com/jl5702/HUDK4050/blob/main/Analysis%20Challenge%20Assignment%202.ipynb.json)
 [ACA3](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/ACA3.ipynb)
 [ACA4](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/ACA4%20-%20Jingyuan%2C%20Siyu%2C%20Zhen.ipynb)
 
