@@ -41,3 +41,5 @@ mini Analysis Challenge Assignments
 [mini3](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/Mini%20LA%20assignment3%20-%20Jingyuan%2C%20Siyu%2C%20Zhen.ipynb)
 
 Creative EDM assignment (improvement plan)
+
+[Statement of Accomplishment-->intro to SQL](https://github.com/linxiaohanwuhu/Siyu-Lin-/blob/main/certificate_SQL.pdf)
